@@ -1,5 +1,5 @@
 
-# Job Seeker
+# DirectoryMapper
 This script is a file sorter. It moves files from a **DOWNLOADS_DIR** directory to other directories based on their file extension. The extensions and destination directories are specified in the **ZIP_EXTENSIONS**, **IMAGE_EXTENSIONS**, **VIDEO_EXTENSIONS**, **AUDIO_EXTENSIONS**, **EXE_EXTENSIONS**, **PDF_EXTENSIONS**, **XLXS_EXTENSIONS**, **DOC_EXTENSIONS**, and **JSON_EXTENSIONS** variables.
 
 ## Setup
